@@ -1,8 +1,13 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Built with React](https://img.shields.io/badge/Built%20with-React-blue)
+![Status: Complete](https://img.shields.io/badge/Status-Prototype%20Complete-brightgreen)
+
 # 🤝 Multi-LLM Consensus Protocol Demonstration -Built with Claude Imagine
 
 A small experiment in simulating **multi-agent collaboration protocols** using conversational prompt design and front-end prototyping tools.  
 This project validates a **safe, deterministic 11-step consensus flow** designed to resolve policy conflicts between specialized AI agents.
 
+![Consensus Demo Screenshot](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo/blob/main/docs/images/CD_3.PNG)   
 ---
 
 ## 🚀 Key Artifact
