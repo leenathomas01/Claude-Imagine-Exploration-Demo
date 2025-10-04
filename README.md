@@ -1,4 +1,4 @@
-# 🤝 Multi-LLM Consensus Protocol Demonstration
+# 🤝 Multi-LLM Consensus Protocol Demonstration -Built with Claude Imagine
 
 A small experiment in simulating **multi-agent collaboration protocols** using conversational prompt design and front-end prototyping tools.  
 This project validates a **safe, deterministic 11-step consensus flow** designed to resolve policy conflicts between specialized AI agents.
