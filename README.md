@@ -4,6 +4,8 @@
 
 # 🤝 Multi-LLM Consensus Protocol Demonstration -Built with Claude Imagine
 
+
+![Claude Imagine UI Screenshot](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo/blob/main/docs/images/Claude_Imagine_1.png)   
 A small experiment in simulating **multi-agent collaboration protocols** using conversational prompt design and front-end prototyping tools.  
 This project validates a **safe, deterministic 11-step consensus flow** designed to resolve policy conflicts between specialized AI agents.
 
@@ -51,6 +53,7 @@ The simulation follows a deterministic sequence:
 - **What worked:** Deterministic sequence executed perfectly; every tag (including `[CLARIFY]`) implemented; final policy output displayed.  
 - **What I learned:** Constrained prompts (deterministic steps, front-end only) yield higher fidelity results. Imagine is best for *UI/code*, while tools like Miro/Lucidchart are ideal for *conceptual visuals*.  
 
+![Claude Imagine UI Screenshot](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo/blob/main/docs/images/Claude_Imagine_2.png) 
 ---
 
 ## 🙏 Credits
