@@ -45,7 +45,7 @@ The simulation follows a deterministic sequence:
 ![Consensus Demo Screenshot](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo/blob/main/docs/images/CD_2_1.PNG)  
 ![Consensus Demo Screenshot](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo/blob/main/docs/images/CD_2_2.PNG)  
 ![Consensus Demo Screenshot](https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo/blob/main/docs/images/CD_3.PNG)  
-*(replace with your saved screenshot)*
+
 
 ---
 
