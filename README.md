@@ -82,6 +82,5 @@ This repository demonstrates multi-LLM collaboration patterns using Anthropic's 
 **Thematically related:**
 - [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas) — Cognitive mapping across AI systems
 - [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability) — Recursive engagement patterns
-- [Research Index](https://github.com/leenathomas01/research-index) — Complete portfolio of multi-agent research
 
 ---
