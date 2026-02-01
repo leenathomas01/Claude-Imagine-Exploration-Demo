@@ -69,3 +69,19 @@ The simulation follows a deterministic sequence:
 git clone https://github.com/leenathomas01/Claude-Imagine-Exploration-Demo.git
 cd Claude-Imagine-Exploration-Demo
 open consensus_demo.html
+```
+---
+
+## Related Work
+
+This repository demonstrates multi-LLM collaboration patterns using Anthropic's Claude Imagine research preview.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [Divergence Atlas](https://github.com/leenathomas01/divergence-atlas) — Cognitive mapping across AI systems
+- [SDFI](https://github.com/leenathomas01/Self-Descriptive-Fixed-Point-Instability) — Recursive engagement patterns
+- [Research Index](https://github.com/leenathomas01/research-index) — Complete portfolio of multi-agent research
+
+---
